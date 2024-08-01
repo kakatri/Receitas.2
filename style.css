@@ -1,0 +1,26 @@
+altura-cartao{
+    padding: 7% 0% 0% 0%;
+}
+
+.largura-cartao{
+    max-width: 20rem;
+    max-height: 40rem;
+}
+
+.posicao-img-cartao {
+    object-fit: cover;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.cartao-img-top{
+    width: 200px;
+    height: 200px;
+}
+
+.bg-gray-light {
+    background-color: #f0f0f0; 
+}
