@@ -1,0 +1,20 @@
+[
+    {
+        "titulo": "Bolo de Cenoura",
+        "imagem": "./imagem/bolo_cenoura.jpeg",
+        "ingredientes": ["Trigo","Fermento","Leite", "Cenoura"],
+        "preparo": "Bata tudo na batedeira e depois coloque sobre a forma para assar."
+    },
+    {
+        "titulo": "Bolo de Fubá",
+        "imagem": "./imagem/bolo_de_fuba.jpg",
+        "ingredientes": ["Trigo", "Fermento", "Leite", "Fubá"],
+        "preparo": "Bata tudo na batedeira e depois coloque sobre a forma para assar."
+    },
+    {
+        "titulo": "Fricassé de Frango",
+        "imagem": "./imagem/fricasse_frango.png",
+        "ingredientes": ["Trigo", "Frango", "Leite", "Legumes"],
+        "preparo": "Cozinhe e desfie o frango, prepare a massa e misture bem com o frango, acrescente legumes de sua preferência e coloque para assar."
+    }
+]
